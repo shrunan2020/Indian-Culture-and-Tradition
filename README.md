@@ -6,4 +6,4 @@ This is a web project about Indian-Culture-and-Tradition. The project is designe
 * JavaScript 
 * Bootstrap
 
-To view the web, start with home.html
+To view the web, start with home.html and subsequently click the navigation bar to access other pages
